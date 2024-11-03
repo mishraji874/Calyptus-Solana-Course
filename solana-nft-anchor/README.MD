@@ -63,22 +63,3 @@ declare_id!("<UPDATE HERE>");
 pub mod solana_nft_anchor {
     // snip
 ```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## Questions
-
-Did you encounter a challenge following the tutorial or running the fork? 
-Head over to our [learning support](https://discord.com/channels/1130457754826461216/1132978998155165806) channel on our [Discord](https://discord.gg/38KftAhW) or alternatively, raise a ticket. 
-
-We are always happy to lend a helping hand
-
-## License
-
-All files within this repository are licensed under the MIT License unless explicitly stated otherwise.
-
-100% Open Source software.
-
-© 2023 [Calyptus] - See [LICENSE](https://opensource.org/license/mit/) for details.
